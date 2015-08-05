@@ -4,7 +4,7 @@
 int main() 
 {	
 	double a, b;
-	printf("½Ð¿é¤J¨â­Ó¯BÂI¼Æ:");
+	printf("è«‹è¼¸å…¥å…©å€‹æµ®é»žæ•¸:");
 	scanf("%lf %lf", &a, &b);
 	double total;
 	total = a+b;
